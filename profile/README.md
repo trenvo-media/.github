@@ -17,7 +17,7 @@ Trenvo Media is a performance-marketing company. We run the ads, produce the cre
 
 | Repository | What it is | Visibility |
 |---|---|---|
-| `trenvo-website` | The marketing site at [trenvomedia.com](https://www.trenvomedia.com) | Private |
+| `Trenvo_media` | The marketing site at [trenvomedia.com](https://www.trenvomedia.com) | Private |
 | [`.github`](https://github.com/trenvo-media/.github) | This organization profile | Public |
 
 ## How we build
