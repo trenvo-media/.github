@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="112" alt="Trenvo Media logo"></p>
+
 <h1 align="center">Trenvo Media</h1>
 
 <p align="center"><b>Paid media, creative production and measurement, run as one system.</b></p>
