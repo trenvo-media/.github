@@ -13,6 +13,13 @@
 
 Trenvo Media is a performance-marketing company. We run the ads, produce the creative that runs in them, and measure what worked, with one owner and one number.
 
+## What lives here
+
+| Repository | What it is | Visibility |
+|---|---|---|
+| `trenvo-website` | The marketing site at [trenvomedia.com](https://www.trenvomedia.com) | Private |
+| [`.github`](https://github.com/trenvo-media/.github) | This organization profile | Public |
+
 ## How we build
 
 Our website, [trenvomedia.com](https://www.trenvomedia.com), is built with React 19, TypeScript, Vite static pre-rendering and Tailwind CSS v4.
